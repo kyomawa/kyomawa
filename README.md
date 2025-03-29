@@ -60,8 +60,8 @@ For more about my work, please visit my [website](https://bryancellier.fr).
 
 [![4WEBD Card](https://github-readme-stats.vercel.app/api/pin/?username=kyomawa&repo=4WEBD&theme=dark&border_color=5f5f5f&icon_color=fff&bg_color=1b1b1b)](https://github.com/kyomawa/4WEBD)
 [![Imoost Card](https://github-readme-stats.vercel.app/api/pin/?username=kyomawa&repo=imoost&theme=dark&border_color=5f5f5f&icon_color=fff&bg_color=1b1b1b)](https://github.com/kyomawa/imoost)
+[![4CITE Card](https://github-readme-stats.vercel.app/api/pin/?username=kyomawa&repo=4CITE&theme=dark&border_color=5f5f5f&icon_color=fff&bg_color=1b1b1b)](https://github.com/kyomawa/4CITE)
 [![SAP Card](https://github-readme-stats.vercel.app/api/pin/?username=kyomawa&repo=supinfo-azure_project&theme=dark&border_color=5f5f5f&icon_color=fff&bg_color=1b1b1b)](https://github.com/kyomawa/supinfo-azure_project)
-[![Rust Train Card](https://github-readme-stats.vercel.app/api/pin/?username=kyomawa&repo=rust_train&theme=dark&border_color=5f5f5f&icon_color=fff&bg_color=1b1b1b)](https://github.com/kyomawa/rust_train)
 
 <!-- Contribution Graph -->
 
