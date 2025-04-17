@@ -54,7 +54,7 @@ For more about my work, please visit my [website](https://bryancellier.fr).
 ### My GitHub Stats
 
 ![Kyomawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyomawa&show_icons=true&theme=dark&icon_color=fff&bg_color=1b1b1b&hide=issues&border_color=5f5f5f&custom_title=Kyomawa%27s%20GitHub%20Stats&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=kyomawa&hide=css,javascript,dockerfile,html,vue&bg_color=1b1b1b&border_color=5f5f5f)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=kyomawa&hide=css,javascript,dockerfile,html,vue,c%23&bg_color=1b1b1b&border_color=5f5f5f)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-chi-rose.vercel.app?user=kyomawa&theme=dark&background=1B1B1B&border=5F5F5F&fire=F58E8E&ring=F58E8E&currStreakLabel=F58E8E&stroke=5F5F5F&sideLabels=FFFFFF&sideNums=FFFFFF&card_width=804&card_height=215)](https://git.io/streak-stats)
 
