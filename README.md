@@ -20,24 +20,23 @@ For more about my work, please visit my [website](https://bryancellier.fr).
 ### Technologies & Tools
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=1b1b1b)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=1b1b1b)
+![Arch Linux](https://img.shields.io/badge/ArchLinux-000000?style=for-the-badge&logo=archlinux&logoColor=white&color=1b1b1b)
+![Hyprland](https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white&color=1b1b1b)
 ![Actix-web](https://img.shields.io/badge/Actix--web-0C1017?style=for-the-badge&logo=actix&logoColor=white&color=1b1b1b)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=1b1b1b)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&color=1b1b1b)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=1b1b1b)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=1b1b1b)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&color=1b1b1b)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=1b1b1b)
+![Zen](https://img.shields.io/badge/Zen-000000?style=for-the-badge&logo=zenbrowser&logoColor=white&color=1b1b1b)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=1b1b1b)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&color=1b1b1b)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=1b1b1b)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white&color=1b1b1b)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1b1b1b)
-![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=white&color=1b1b1b)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&color=1b1b1b)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=1b1b1b)
 ![Minio](https://img.shields.io/badge/Minio-000000?style=for-the-badge&logo=minio&logoColor=white&color=1b1b1b)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&color=1b1b1b)
-![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white&color=1b1b1b)
-![Coder](https://img.shields.io/badge/Coder-000000?style=for-the-badge&logo=coder&logoColor=white&color=1b1b1b)
 
 ---
 
