@@ -5,7 +5,7 @@
 
 ## Hi, I'm Bryan 👋
 
-I'm a **TypeScript Developer** passionate about building modern, dynamic applications. I'm also actively learning **Rust** to explore new approaches in performance and security.
+I'm a **TypeScript Developer** passionate about building modern, dynamic applications. I'm actively learning **Rust** to explore new approaches in performance and security.
 For more about my work, please visit my [website](https://bryancellier.fr).
 
 <!-- Visitor Count & Follow -->
