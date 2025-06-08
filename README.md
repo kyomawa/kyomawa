@@ -11,7 +11,7 @@ For more about my work, please visit my [website](https://bryancellier.fr).
 <!-- Visitor Count & Follow -->
 
 ![Visitor Count](https://api.visitorbadge.io/api/VisitorHit?user=kyomawa&repo=github-visitors-badge&countColor=%23FAFAFA&labelColor=%231b1b1b&label=Profile%20Views)
-[![GitHub Follow](https://img.shields.io/github/followers/kyomawa?label=Follow&logo=github&logoColor=white&style=for-the-badge&color=fafafa&labelColor=1b1b1b)](https://github.com/kyomawa)
+<!-- [![GitHub Follow](https://img.shields.io/github/followers/kyomawa?label=Follow&logo=github&logoColor=white&style=for-the-badge&color=fafafa&labelColor=1b1b1b)](https://github.com/kyomawa) -->
 
 ---
 
