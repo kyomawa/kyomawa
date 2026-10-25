@@ -1,6 +1,3 @@
-<!-- Header Image -->
-<img src="header.png" width="1200" style="border-radius: 4.5px">
-
 <!-- Introduction -->
 
 ## Hi, I'm Bryan 👋
